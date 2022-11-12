@@ -102,42 +102,6 @@
             "full_name": "Marlane Garnall",
             "company": "Photobug",
             "last_message": "I'll waiting for your answer"
-        },
-        {
-            "id": 5,
-            "full_name": "Nap McOwen",
-            "company": "Wordware",
-            "last_message": "I'll waiting for your answer"
-        },
-        {
-            "id": 6,
-            "full_name": "Patrizius Jamot",
-            "company": "Leexo",
-            "last_message": "I'll waiting for your answer"
-        },
-        {
-            "id": 7,
-            "full_name": "Warden Calltone",
-            "company": "Agivu",
-            "last_message": "I'll waiting for your answer"
-        },
-        {
-            "id": 8,
-            "full_name": "Javier Challen",
-            "company": "Meemm",
-            "last_message": "I'll waiting for your answer"
-        },
-        {
-            "id": 9,
-            "full_name": "Adams Devote",
-            "company": "Photospace",
-            "last_message": "I'll waiting for your answer"
-        },
-        {
-            "id": 10,
-            "full_name": "Aurthur Sinderson",
-            "company": "Topiclounge",
-            "last_message": "I'll waiting for your answer"
         }
     ],
     "drivers": [
@@ -173,17 +137,6 @@
             "country": "Peru",
             "region": "Lima",
             "id": 3
-        },
-        {
-            "first_name": "edfggfd",
-            "last_name": "fdgdfdfg",
-            "phone": "dgfdfg",
-            "email": "dg",
-            "password": "dfgd",
-            "license": "A-IIa",
-            "country": "gdgdfg",
-            "region": "dfgdfg",
-            "id": 4
         }
     ],
     "companies": [
